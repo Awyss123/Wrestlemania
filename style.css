@@ -1,0 +1,18 @@
+#top {
+	background-color: #000000;
+	text-align: center;
+	color: #ffffff;
+	padding: 0;
+}
+
+.bingo {
+	text-align: center;
+	border: 2px solid black;
+	margin-top: 5px;
+	padding-bottom: 5px;
+}
+
+.img-responsive {
+	margin: 0 auto;
+
+}
